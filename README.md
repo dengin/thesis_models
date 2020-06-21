@@ -5,6 +5,7 @@ expert_finding_by_term_count_manually.ipynb: Find similar documents by using ter
 
 expert_finding_by_sklearn.ipynb: Find similar documents by using term count and tfidf value matrices with sklearn vectorizers.
 
-dergipark_word.ipynb: Word embedding preparation for Dergipark articles. sobiad_word.ipynb: Word embedding preparation for Sobiad articles.
+dergipark_word.ipynb: Word embedding preparation for Dergipark articles.
+sobiad_word.ipynb: Word embedding preparation for Sobiad articles.
 
 expert_finding_by_word_embedding.ipynb: Find similar documents by using word embedding matrices with gensim library.

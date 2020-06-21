@@ -9,3 +9,5 @@ dergipark_word.ipynb: Word embedding preparation for Dergipark articles.
 sobiad_word.ipynb: Word embedding preparation for Sobiad articles.
 
 expert_finding_by_word_embedding.ipynb: Find similar documents by using word embedding matrices with gensim library.
+
+expert_finding_by_doc2vec.ipynb: Find similar documents by using doc2vec embedding matrices.

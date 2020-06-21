@@ -11,3 +11,5 @@ sobiad_word.ipynb: Word embedding preparation for Sobiad articles.
 expert_finding_by_word_embedding.ipynb: Find similar documents by using word embedding matrices with gensim library.
 
 expert_finding_by_doc2vec.ipynb: Find similar documents by using doc2vec embedding matrices.
+
+expert_finding_by_bert.ipynb: Finding similar documents by using bert pretrained models.
